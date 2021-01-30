@@ -14,19 +14,27 @@
 
 > Yumniastic is a online food delivery service app built with Flutter and Django
 
-### 🏠 [Homepage](https://github.com/1hanzla100/flutter-yumniastic)
+## 🚀 [DEMO](https://github.com/1hanzla100/flutter-yumniastic/releases)
+## Getting Started
 
-## Install
+To get a local copy up and running follow these simple example steps.
 
-```sh
-flutter pub get
-```
+Prerequisite: https://flutter.dev/docs/get-started/install
 
-## Usage
+1. To get started, fork this repository to your GitHub account.
 
-```sh
-flutter run
-```
+2. Clone the repo.
+    ```sh
+     git clone https://github.com/1hanzla100/flutter-yumniastic
+    ```
+3. Install packages.
+    ```sh
+     flutter pub get
+    ```
+4. Run project.
+    ```sh
+     flutter run
+    ```
 
 ## Author
 
