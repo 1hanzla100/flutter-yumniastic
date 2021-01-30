@@ -1,6 +1,5 @@
 <h1 align="center">Welcome to Flutter Yumniastic 👋</h1>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
@@ -13,11 +12,13 @@
   <a href="https://twitter.com/1hanzla100" target="_blank">
     <img alt="Twitter: 1hanzla100" src="https://img.shields.io/twitter/follow/1hanzla100.svg?style=social" />
   </a>
+  <a href="#contributors-" target="_blank">
+    <img alt="contributors" src="https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square" />
+  </a>
 </p>
 
 > Yumniastic is a online food delivery service app built with Flutter and Django
 
-<img src="PIC.PNG"></img>
 ## 🚀 [DEMO](https://github.com/1hanzla100/flutter-yumniastic/releases)
 ## Getting Started
 
