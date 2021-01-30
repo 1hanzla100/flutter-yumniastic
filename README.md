@@ -18,9 +18,10 @@
 
 > Yumniastic is a online food delivery service app built with Flutter and Django
 
-## 🚀 [DEMO](https://github.com/1hanzla100/flutter-yumniastic/releases)
+## 🚀 See Screenshots
 
-<p>
+<details>
+<summary>See ScreenShots</summary>
 <img src="https://user-images.githubusercontent.com/59178380/106362317-eb812480-6343-11eb-9260-c97720450bfb.png" alt="Home" width=300></img>
 <img src="https://user-images.githubusercontent.com/59178380/106362708-15d3e180-6346-11eb-90f4-ad39b6cd44bc.png" alt="PizzaCategory" width=300></img>
 <img src="https://user-images.githubusercontent.com/59178380/106362318-ec19bb00-6343-11eb-92b5-931093063fcf.png" alt="ItemDetail" width=300></img>
@@ -29,7 +30,9 @@
 <img src="https://user-images.githubusercontent.com/59178380/106362323-efad4200-6343-11eb-8ce6-a2b54ccb295a.png" alt="Orders" width=300></img>
 <img src="https://user-images.githubusercontent.com/59178380/106362321-ef14ab80-6343-11eb-83b2-073708a83cea.png" alt="OrderDetail" width=300></img>
 <img src="https://user-images.githubusercontent.com/59178380/106362324-f045d880-6343-11eb-8025-dd6367443839.png" alt="UserProfile" width=300></img>
-</p>
+</details>
+
+[Download APK](https://github.com/1hanzla100/flutter-yumniastic/releases)
 
 ## Getting Started
 
