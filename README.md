@@ -22,6 +22,8 @@
 
 <details>
 <summary>See ScreenShots</summary>
+<img src="https://user-images.githubusercontent.com/59178380/106363218-14f07f00-6349-11eb-82fb-2260c7863438.png" alt="Signup" width=300></img>
+<img src="https://user-images.githubusercontent.com/59178380/106363224-191c9c80-6349-11eb-942b-4e8d4c970e3c.png" alt="Login" width=300></img>
 <img src="https://user-images.githubusercontent.com/59178380/106362317-eb812480-6343-11eb-9260-c97720450bfb.png" alt="Home" width=300></img>
 <img src="https://user-images.githubusercontent.com/59178380/106362708-15d3e180-6346-11eb-90f4-ad39b6cd44bc.png" alt="PizzaCategory" width=300></img>
 <img src="https://user-images.githubusercontent.com/59178380/106362318-ec19bb00-6343-11eb-92b5-931093063fcf.png" alt="ItemDetail" width=300></img>
