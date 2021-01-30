@@ -14,6 +14,7 @@
 
 > Yumniastic is a online food delivery service app built with Flutter and Django
 
+<img src="PIC.PNG"></img>
 ## 🚀 [DEMO](https://github.com/1hanzla100/flutter-yumniastic/releases)
 ## Getting Started
 
