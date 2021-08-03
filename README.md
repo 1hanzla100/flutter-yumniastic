@@ -62,7 +62,7 @@ Prerequisite: https://flutter.dev/docs/get-started/install
 
 👤 **Hanzla Tauqeer**
 
-* Website: https://hanzla.now.sh
+* Website: https://hanzla.netlify.app
 * Twitter: [@1hanzla100](https://twitter.com/1hanzla100)
 * Github: [@1hanzla100](https://github.com/1hanzla100)
 * LinkedIn: [@1hanzla100](https://linkedin.com/in/1hanzla100)
